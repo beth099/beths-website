@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Beth Clarke
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,8 +9,8 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a psychology PhD student at the University of Melbourne studying how scientists conduct and communicate their research findings. I am also part of the MetaMelb Research Group and a Research Assistant on the repliCATS project, looking at how reviewers evaluate published papers. After completing my Bachelor of Arts (Hons) in 2021, my combined interest in philosophy and psychology has led me to pursue research in metascience. 
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:bethc1@student.unimelb.edu.au' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/bethclarke_
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
