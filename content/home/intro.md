@@ -18,7 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-Check out my [resumé](/about/) and portfolio below 😍
+I am a psychology PhD student at [**the University of Melbourne**](unimelb.edu.au) studying how scientists conduct and communicate their research findings. I am also part of the [**MetaMelb Research Group**](Metamelb.org)) and a Research Assistant on [**the repliCATS project**](https://replicats.research.unimelb.edu.au/#tabmain), looking at how reviewers evaluate published papers. After completing my Bachelor of Arts (Hons) in 2021, my combined interest in philosophy and psychology has led me to pursue research in metascience. 
