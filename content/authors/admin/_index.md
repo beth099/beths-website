@@ -66,4 +66,4 @@ social:
 #email: ""
 ---
 My CV highlights can be seen below. 
-Please {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}download{{< /staticref >}} my CV for a complete record of my experience and achievements.
+Please {{< icon name="download" pack="fas" >}} {{< staticref "uploads/BethClarkeCV.pdf" "newtab" >}}download{{< /staticref >}} my CV for a complete record of my experience and achievements.
