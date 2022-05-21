@@ -22,28 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: 'University of Melbourne: repliCATS project'
+    company_url: 'https://replicats.research.unimelb.edu.au/'
+    company_logo: unimelb
+    location: 
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * A collaborative meta-research project where I assess social scientific research claims
+        by critically reviewing papers and estimating their replicability.
+        *  Assisted the repliCATS team in organising the final repliCATs workshop
+        * Assisted in organising the Association for Interdisciplinary Meta-Research and Open
+        Science (AIMOS) conference.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Intern
+    company: 'University of Melbourne: Function of Emotions in Everyday Life (FEEL) Lab'
+    company_url: 'https://psychologicalsciences.unimelb.edu.au/research/research-initiatives/our-work/feel-research-lab'
+    company_logo: unimelb
+    location: 
+    date_start: '2021-11-01'
+    date_end: '2022-02-01'
+    description: '* Collaborated on a project investigating the role of social interactions on emotions in
+    the context of COVID-19 related lockdowns in Melbourne, Australia. '
+
+  - title: Research Assistant
+    company: 'University of Melbourne: Professor Simine Vazire'
+    company_url: 'https://www.simine.com/'
+    company_logo: unimelb
+    location: 
+    date_start: '2020-12-01'
+    date_end: '2021-02-01'
+    description: '* Coded features of published journal articles for a project assessing the transparency
+    and rigour of research practices in personality and social psychology'
+
+  - title: Intern
+    company: 'University of Melbourne: Personality Processes Lab'
+    company_url: 'https://www.melbppl.com/'
+    company_logo: unimelb
+    location: 
+    date_start: '2020-07-01'
+    date_end: '2021-01-01'
+    description: '* Collaborated in coding data for two personality related projects.
+    
+    * Attended regular lab meetings, which discuss the most up-to date topics in personality
+    psychology.'
 
 design:
   columns: '1'

@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Scholarships and Academic Awards'
 subtitle:
 
 # Date format
@@ -23,30 +23,32 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    organization: The University of Melbourne
+    organization_url: https://www.unimelb.edu.au/
+    title: Research Training Program Scholarship (Fee offset and Stipend)
+    url: 'https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship'
+
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2020-05-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: The University of Melbourne
+    organization_url:  https://www.unimelb.edu.au/
+    title: Dean’s Honours List for Academic Excellence in Bachelor of Arts
+    url: 'https://arts.unimelb.edu.au/students/deans-honours-list/past-recipients/deans-honours-list'
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2018-01-01'
+    description: ''
+    organization: The University of Melbourne
+    organization_url: ttps://www.unimelb.edu.au/
+    title: 'Kwong Lee Dow Young Scholar'
+    url: 'https://study.unimelb.edu.au/connect-with-us/programs-for-high-achievers/kwong-lee-dow-young-scholars-program'
 
 design:
   columns: '1'
