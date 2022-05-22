@@ -6,24 +6,24 @@ title: Beth Clarke
 superuser: true
 
 # Role/position
-role: ''
+role: 'PhD student' 
 
 # Status emoji
 #status:
 #  icon: 
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+#Organizations/Affiliations
+organizations: 
+- name: 'The University of Melbourne'
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a psychology PhD student at the University of Melbourne studying how scientists conduct and communicate their research findings. I am also part of the MetaMelb Research Group and a Research Assistant on the repliCATS project, looking at how reviewers evaluate published papers. After completing my Bachelor of Arts (Hons) in 2021, my combined interest in philosophy and psychology has led me to pursue research in metascience. 
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Metascience
+#- Social and Personality Psychology
+#- Philosophy of Science
 
 #education:
 #  courses:
