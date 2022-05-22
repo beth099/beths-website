@@ -10,3 +10,6 @@ main:
   - name: CV
     url: /about/
     weight: 20
+  - name: Publications
+    url: /publication
+    weight: 30
